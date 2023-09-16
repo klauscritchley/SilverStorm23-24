@@ -24,7 +24,7 @@ public class TeleopTest extends LinearOpMode {
     public void runOpMode() {
 
         // Tell the user that the robot has been initialized.
-        telemetry.addData("Status","Initialized");
+        telemetry.addData("Status", "Initialized");
         telemetry.update();
 
         // Initialize Hardware Values
