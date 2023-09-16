@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode.pathfinder;
-
 import org.firstinspires.ftc.teamcode.AbsoluteAnalogEncoder;
 import org.firstinspires.ftc.teamcode.RobotHardware;
 import org.firstinspires.ftc.teamcode.SwerveModule;

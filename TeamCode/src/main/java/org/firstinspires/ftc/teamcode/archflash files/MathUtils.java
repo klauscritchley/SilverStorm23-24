@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode;
-
 public class MathUtils {
     public static double norm(double angle){
         return angle%(2*Math.PI);

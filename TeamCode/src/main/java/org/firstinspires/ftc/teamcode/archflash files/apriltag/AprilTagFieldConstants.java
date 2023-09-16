@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode.apriltag;
-
 import me.wobblyyyy.pathfinder2.geometry.PointXYZ;
 
 public class AprilTagFieldConstants {

@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode.util;
-
 import com.acmerobotics.dashboard.canvas.Canvas;
 import com.acmerobotics.roadrunner.geometry.Pose2d;
 import com.acmerobotics.roadrunner.geometry.Vector2d;

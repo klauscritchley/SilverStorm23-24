@@ -1,8 +1,6 @@
-package org.firstinspires.ftc.teamcode;
-
 import com.acmerobotics.dashboard.config.Config;
 
-import org.firstinspires.ftc.teamcode.Pose;
+import Pose;
 
 @Config
 public class Globals {

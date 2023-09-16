@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode;
-
 import static org.firstinspires.ftc.robotcore.external.navigation.AngleUnit.normalizeRadians;
 
 import com.acmerobotics.dashboard.config.Config;

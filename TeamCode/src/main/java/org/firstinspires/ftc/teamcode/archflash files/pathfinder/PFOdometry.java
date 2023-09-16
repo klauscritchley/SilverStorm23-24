@@ -1,7 +1,5 @@
-package org.firstinspires.ftc.teamcode.pathfinder;
-
 import org.firstinspires.ftc.teamcode.RobotHardware;
-import org.firstinspires.ftc.teamcode.util.Encoder;
+import Encoder;
 import org.openftc.apriltag.AprilTagDetection;
 
 import java.util.Locale;

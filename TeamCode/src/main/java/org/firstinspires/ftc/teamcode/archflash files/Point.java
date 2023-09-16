@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode;
-
 public class Point {
     public double x, y;
 

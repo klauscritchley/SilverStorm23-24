@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode.util;
-
 import org.firstinspires.ftc.robotcore.internal.system.AppUtil;
 
 import java.io.File;

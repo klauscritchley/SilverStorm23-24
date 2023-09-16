@@ -1,6 +1,3 @@
-package org.firstinspires.ftc.teamcode.manipulator;
-
-
 import static org.firstinspires.ftc.robotcore.external.BlocksOpModeCompanion.telemetry;
 
 import com.qualcomm.robotcore.hardware.DcMotorEx;

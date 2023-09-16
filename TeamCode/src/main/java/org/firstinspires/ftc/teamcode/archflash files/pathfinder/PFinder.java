@@ -1,6 +1,4 @@
-package org.firstinspires.ftc.teamcode.pathfinder;
-
-import org.firstinspires.ftc.teamcode.Pose;
+import Pose;
 import org.firstinspires.ftc.teamcode.RobotHardware;
 
 import me.wobblyyyy.pathfinder2.control.PIDController;

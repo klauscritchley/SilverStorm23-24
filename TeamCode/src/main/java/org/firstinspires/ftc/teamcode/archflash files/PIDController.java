@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode;
-
 public class PIDController {
     private double kP; // Proportional constant
     private double kI; // Integral constant

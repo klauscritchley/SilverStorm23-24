@@ -1,10 +1,8 @@
-package org.firstinspires.ftc.teamcode.objectdetection;
-
 import org.firstinspires.ftc.teamcode.PIDController;
-import org.firstinspires.ftc.teamcode.Pose;
-import org.firstinspires.ftc.teamcode.pathfinder.PFinder;
-import org.firstinspires.ftc.teamcode.pipelines.ColorDetectionPipeline;
-import org.firstinspires.ftc.teamcode.pipelines.PixelDetectionPipeline;
+import Pose;
+import PFinder;
+import ColorDetectionPipeline;
+import PixelDetectionPipeline;
 
 public class PixelChaser {
 

@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode;
-
 import static org.firstinspires.ftc.robotcore.external.navigation.AngleUnit.normalizeRadians;
 
 
@@ -17,10 +15,10 @@ import com.qualcomm.hardware.lynx.LynxModule;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
-import org.firstinspires.ftc.teamcode.manipulator.Deposit;
-import org.firstinspires.ftc.teamcode.manipulator.DroneShooter;
-import org.firstinspires.ftc.teamcode.manipulator.Intake;
-import org.firstinspires.ftc.teamcode.pathfinder.PFinder;
+import Deposit;
+import DroneShooter;
+import Intake;
+import PFinder;
 
 @Config
 @TeleOp(name = "😈😈😈😈😈😈")

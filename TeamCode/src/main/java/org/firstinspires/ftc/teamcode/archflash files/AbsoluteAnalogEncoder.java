@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode;
-
 import com.acmerobotics.dashboard.config.Config;
 import com.acmerobotics.roadrunner.util.Angle;
 import com.qualcomm.robotcore.hardware.AnalogInput;

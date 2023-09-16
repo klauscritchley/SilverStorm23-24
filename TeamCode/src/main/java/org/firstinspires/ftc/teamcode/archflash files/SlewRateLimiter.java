@@ -1,5 +1,3 @@
-package org.firstinspires.ftc.teamcode;
-
 import androidx.core.math.MathUtils;
 
 import com.qualcomm.robotcore.util.ElapsedTime;

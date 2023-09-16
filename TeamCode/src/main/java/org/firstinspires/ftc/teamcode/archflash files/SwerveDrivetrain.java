@@ -1,12 +1,10 @@
-package org.firstinspires.ftc.teamcode;
-
 import static java.lang.Math.atan2;
 import static java.lang.Math.hypot;
 
 import com.acmerobotics.dashboard.config.Config;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
-import static org.firstinspires.ftc.teamcode.Globals.*;
+import static Globals.*;
 
 @Config
 public class SwerveDrivetrain {
