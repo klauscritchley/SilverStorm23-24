@@ -11,7 +11,7 @@ import com.qualcomm.robotcore.util.Range;
 import org.firstinspires.ftc.robotcore.external.Telemetry;
 import org.opencv.core.Mat;
 
-@TeleOp(name="Mecanum Test",group = "Tests")
+@TeleOp(name="Mecanum Test", group = "Tests")
 public class TeleopTest extends LinearOpMode {
 
     private  ElapsedTime runtime = new ElapsedTime();
